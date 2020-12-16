@@ -1,4 +1,4 @@
-# traversing-grid
+# Traversing Grid
 Description
 
     Starting at the top left corner of an N x M grid and facing towards the right, you keep walking one square at a time in the direction you are facing. If you reach the boundary of the grid or if the next square you are about to visit has already been visited, you turn right. You stop when all the squares in the grid have been visited. What direction will you be facing when you stop? For example: Consider the case with N = 3, M = 3. The path followed will be (0,0) -> (0,1) -> (0,2) -> (1,2) -> (2,2) -> (2,1) -> (2,0) -> (1,0) -> (1,1). At this point, all squares have been visited, and you are facing right.
@@ -28,3 +28,9 @@ L
 D
 
 R
+
+### Installation
+We just need to have python 3.x installed 
+
+The next step is to run:
+#### python grid.py
